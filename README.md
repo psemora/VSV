@@ -1,10 +1,10 @@
-Digits recognition 
+<p align="center"><b><h2>Digit recognition</h2></b></p>
 
- - OpenCV: https://opencv.org/
- - Tesseract OCR: https://github.com/tesseract-ocr/tessdoc \
-                  https://tesseract-ocr.github.io/
+This school project was elaborated in to [Machine Vision](https://www.fme.vutbr.cz/en/studenti/predmety/244451) course.
+The aim of the team's project was to automate the conversion of printed text into digital form.
 
-Nìkteré obrázky z datasetu to rozpoznává dobøe, jiné vùbec (viz Result).
-Mùžete zkusit experimentovat s velikostí obrázkù (dimension), kontrastem (alfa) a jasem (beta) - výraznì to ovlivnuje výsledky. Ideálnì zkusit program vylepšit, aby rozpoznával všechny èísla.
+To complete the task, two options were used. The first option was using IMPACT Software by Datalogic. The second option was using Tesseract OCR Engine with OpenCV library. 
+
+
 
 
